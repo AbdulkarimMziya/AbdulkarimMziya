@@ -8,7 +8,7 @@
 ### 📖 About Me
 I'm a recent graduate at Thompson Rivers University specializing in **iOS development using Swift & UIKit**, with strong experience in **mobile architecture, UI development, and networking**.
 
-My primary focus is building **high-quality, production-ready mobile applications**, with a strong emphasis on **clean architecture, smooth UI/UX, performance, and scalability**. Alongside mobile development, I have solid full-stack experience and enjoy building intelligent systems using **AI agents and automation workflows**.
+Alongside mobile development, I have solid full-stack experience and enjoy building intelligent systems using **AI agents and automation workflows**.
 
 Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade applications, and preparing for **junior iOS developer roles** in Canada🇨🇦.
 
