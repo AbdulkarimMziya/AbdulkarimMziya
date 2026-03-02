@@ -66,7 +66,7 @@ This project demonstrates **advanced prompt engineering, agent workflows, tool o
 #### 📰 News App
 
 <p align="center">
-   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/demoNewsApp.gif" alt="My Banner" width="120"/> 
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/demoNewsApp.gif" alt="My Banner" width="150"/> 
 </p>
 Currently building an app that fetches and displays the latest news from multiple sources.
 
