@@ -1,3 +1,6 @@
+<p align="center">
+ <!-- <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/banner.png" alt="My Banner" width="100%"/> -->
+</p>
 # Abdulkarim Mziya
 **iOS Developer | Software Engineer | C.S Graduate @ Thompson Rivers University**
 
@@ -53,6 +56,15 @@ This project demonstrates **advanced prompt engineering, agent workflows, tool o
 
 ---
 
+### 🌱 Currently Working On
+
+#### 📰 News App
+Currently building an app that fetches and displays the latest news from multiple sources.
+
+**Features in Development:**
+- Search articles by keyword
+- Sort articles by publish date or relevance
+- Filter articles by category or source
 
 ### 📫 Contact Me
 
