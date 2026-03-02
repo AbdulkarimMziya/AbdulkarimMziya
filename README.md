@@ -35,6 +35,10 @@ Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade a
 ---
 ### 🚀 Projects
 
+<p align="center">
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/android_app.gif" alt="My Banner" width="150"/> 
+</p>
+
 #### 📱 Hire Horizon - Job Application Tracker
 
 An app that helps you track and manage your job applications efficiently.
