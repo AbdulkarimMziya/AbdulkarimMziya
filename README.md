@@ -1,7 +1,7 @@
 <p align="center">
- <!-- <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/banner.png" alt="My Banner" width="100%"/> -->
+ <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/banner.png" alt="My Banner" width="100%"/> 
 </p>
-# Abdulkarim Mziya
+
 **iOS Developer | Software Engineer | C.S Graduate @ Thompson Rivers University**
 
 
