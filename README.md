@@ -3,14 +3,18 @@
 </p>
 
 **iOS Developer | Software Engineer | C.S Graduate @ Thompson Rivers University**
+---
 
+### 📖 About Me
+I'm a recent graduate at Thompson Rivers University specializing in **iOS development using Swift & UIKit**, with strong experience in **mobile architecture, UI development, and networking**.
 
-### About Me
+My primary focus is building **high-quality, production-ready mobile applications**, with a strong emphasis on **clean architecture, smooth UI/UX, performance, and scalability**. Alongside mobile development, I have solid full-stack experience and enjoy building intelligent systems using **AI agents and automation workflows**.
 
+Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade applications, and preparing for **junior iOS developer roles** in Canada🇨🇦.
 
 ---
 
-### Tech
+### 🛠️ Tech Stack & Tools
 ![Static Badge](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)                            <!-- ios -->
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/UIKit-blue?logo=uikit&logoColor=white)
