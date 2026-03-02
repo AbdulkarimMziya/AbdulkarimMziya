@@ -32,6 +32,7 @@ Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade a
 ![Static Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
+---
 ### 🚀 Projects
 
 #### 📱 Hire Horizon - Job Application Tracker
@@ -63,12 +64,18 @@ This project demonstrates **advanced prompt engineering, agent workflows, tool o
 ### 🌱 Currently Working On
 
 #### 📰 News App
+
+<p align="center">
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/demoNewsApp.gif" alt="My Banner" width="120"/> 
+</p>
 Currently building an app that fetches and displays the latest news from multiple sources.
 
 **Features in Development:**
 - Search articles by keyword
 - Sort articles by publish date or relevance
 - Filter articles by category or source
+
+---
 
 ### 📫 Contact Me
 
