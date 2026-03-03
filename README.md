@@ -84,7 +84,7 @@ Currently building an app that fetches and displays the latest news from multipl
 
 #### 🎮 Tic Tac Toe
 <p align="center">
-   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/d" alt="TicTacToe Demo" width="150"/> 
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo.gif" alt="TicTacToe Demo" width="150"/> 
 </p>
 
 
