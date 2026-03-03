@@ -81,6 +81,22 @@ Currently building an app that fetches and displays the latest news from multipl
 - Sort articles by publish date or relevance
 - Filter articles by category or source
 
+
+#### 🎮 Tic Tac Toe
+<p align="center">
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/d" alt="TicTacToe Demo" width="150"/> 
+</p>
+
+
+Currently building a fully programmatic UIKit version of Tic Tac Toe with clean MVC architecture.
+
+**Features in Development:**
+- Player vs Environment (AI opponent logic)
+- Player vs Player Online (server-backed multiplayer)
+- Backend service for real-time match synchronization
+- UI redesign with improved animations and game states
+- Game mode selection screen (Local / AI / Online)
+
 ---
 
 ### 📫 Contact Me
