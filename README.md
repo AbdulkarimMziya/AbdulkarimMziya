@@ -36,7 +36,9 @@ Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade a
 ### 🚀 Projects
 
 <p align="center">
-   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/android_app.gif" alt="My Banner" width="150"/> 
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/android_app.gif" alt="App demo" width="150" /> 
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/android_app2.gif" alt="App demo" width="150" hspace="10"/>
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/android_app3.gif" alt="App demo" width="150" hspace="20"/> 
 </p>
 
 #### 📱 Hire Horizon - Job Application Tracker
