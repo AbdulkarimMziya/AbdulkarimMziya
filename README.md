@@ -36,10 +36,35 @@ Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade a
 ### 🚀 Projects
 
 <p align="center">
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo1.gif" alt="TicTacToe Demo" width="150"/>
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo2.gif" alt="TicTacToe Demo" width="150" hspace="10"/> 
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo3.gif" alt="TicTacToe Demo" width="150" hspace="20"/> 
+</p>
+
+
+#### 🎮 Ultimate TicTacToe
+
+iOS Tic Tac Toe game built with Swift and UIKit.
+
+**Key Features:**
+- **Three AI Difficulty Levels** - Easy (random moves), Medium (basic heuristics), and Hard (strategic/positional play)
+- **Dynamic Scoreboard** - Persists and tracks player vs opponent wins with a neon-themed UI
+
+**Additional Features:**
+- **Online Multiplayer** - Server-backed player vs player gameplay
+- **Game Mode Selection** - Choose between Local, AI, or Online modes
+
+🔗 [GitHub Repo](https://github.com/AbdulkarimMziya/TicTacToe)
+
+---
+
+
+<p align="center">
    <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/android_app.gif" alt="App demo" width="150" /> 
    <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/android_app2.gif" alt="App demo" width="150" hspace="10"/>
    <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/android_app3.gif" alt="App demo" width="150" hspace="20"/> 
 </p>
+
 
 #### 📱 Hire Horizon - Job Application Tracker
 
@@ -69,32 +94,17 @@ This project demonstrates **advanced prompt engineering, agent workflows, tool o
 
 ### 🌱 Currently Working On
 
-#### 📰 News App
-
+#### 🎮 [Tic Tac Toe](https://github.com/AbdulkarimMziya/TicTacToe.git)
 <p align="center">
-   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/demoNewsApp.gif" alt="My Banner" width="150"/> 
-</p>
-Currently building an app that fetches and displays the latest news from multiple sources.
-
-**Features in Development:**
-- Search articles by keyword
-- Sort articles by publish date or relevance
-- Filter articles by category or source
-
-
-#### 🎮 Tic Tac Toe
-<p align="center">
-   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo.gif" alt="TicTacToe Demo" width="150"/> 
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo3.gif" alt="TicTacToe Demo" width="150"/> 
 </p>
 
 
 Currently building a fully programmatic UIKit version of Tic Tac Toe with clean MVC architecture.
 
 **Features in Development:**
-- Player vs Environment (AI opponent logic)
 - Player vs Player Online (server-backed multiplayer)
 - Backend service for real-time match synchronization
-- UI redesign with improved animations and game states
 - Game mode selection screen (Local / AI / Online)
 
 ---
