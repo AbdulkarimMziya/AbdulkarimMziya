@@ -6,7 +6,7 @@
 ---
 
 ### 📖 About Me
-I'm a recent graduate at Thompson Rivers University specializing in **iOS development using Swift & UIKit**, with strong experience in **mobile architecture, UI development, and networking**.
+I'm a recent graduate at Thompson Rivers University specializing in **iOS development using SwiftUI & UIKit**, with strong experience in **mobile architecture, UI development, and networking**.
 
 Alongside mobile development, I have solid full-stack experience and enjoy building intelligent systems using **AI agents and automation workflows**.
 
@@ -44,7 +44,7 @@ Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade a
 
 #### 🎮 Ultimate TicTacToe
 
-iOS Tic Tac Toe game built with Swift and UIKit.
+iOS Tic Tac Toe game built with SwiftUI and UIKit.
 
 **Key Features:**
 - **Three AI Difficulty Levels** - Easy (random moves), Medium (basic heuristics), and Hard (strategic/positional play)
