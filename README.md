@@ -38,7 +38,7 @@ Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade a
 <p align="center">
    <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo1.gif" alt="TicTacToe Demo" width="150"/>
    <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo2.gif" alt="TicTacToe Demo" width="150" hspace="10"/> 
-   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo3.gif" alt="TicTacToe Demo" width="150" hspace="20"/> 
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-widget-demo.gif" alt="TicTacToe Demo" width="150" hspace="20"/> 
 </p>
 
 
@@ -49,6 +49,7 @@ iOS Tic Tac Toe game built with Swift and UIKit.
 **Key Features:**
 - **Three AI Difficulty Levels** - Easy (random moves), Medium (basic heuristics), and Hard (strategic/positional play)
 - **Dynamic Scoreboard** - Persists and tracks player vs opponent wins with a neon-themed UI
+- **Home Screen Widget** – A real-time WidgetKit(small & medium) dashboard using App Groups to sync win/loss stats.
 
 **Additional Features:**
 - **Online Multiplayer** - Server-backed player vs player gameplay
