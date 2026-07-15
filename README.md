@@ -95,6 +95,20 @@ This project demonstrates **advanced prompt engineering, agent workflows, tool o
 
 ### 🌱 Currently Working On
 
+#### 🏋️ [DidWeights](https://github.com/AbdulkarimMziya/DidWeights)
+<p align="center">
+   <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/DidWeightsPlan.gif" alt="DidWeights Demo" width="150"/> 
+</p>
+
+Currently building a native SwiftUI workout tracking app with SwiftData persistence, letting users log active workouts and build reusable workout plans.
+
+**Features in Development:**
+- Active workout sessions with set/rep/weight logging and completion tracking
+- Persisted in-progress sessions that survive app termination
+- Custom workout plan creation, loaded directly into a new active session
+
+
+
 #### 🎮 [Tic Tac Toe](https://github.com/AbdulkarimMziya/TicTacToe.git)
 <p align="center">
    <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo3.gif" alt="TicTacToe Demo" width="150"/> 
