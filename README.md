@@ -35,6 +35,22 @@ Currently, I'm sharpening my **advanced iOS skills**, building portfolio-grade a
 ---
 ### 🚀 Projects
 
+#### 💪 DidWeights
+iOS workout tracking app built with SwiftUI and SwiftData.
+
+
+**Key Features:**
+- **Active Workout Tracking** - Build a session on the fly by adding exercises and sets, logging weight/reps, and marking sets complete
+- **Draft Persistence** - In-progress workouts autosave and restore automatically, so dismissing the sheet or force-quitting the app never loses progress
+- **Workout Plans** - Create reusable templates (exercise names + set counts) and load them straight into an active session
+- 
+**Additional Features:**
+- **SwiftData-backed Storage** - Workouts and plans persist locally via SwiftData with external storage for encoded session data
+  
+🔗 [GitHub Repo](https://github.com/AbdulkarimMziya/DidWeights)
+
+---
+
 <p align="center">
    <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo1.gif" alt="TicTacToe Demo" width="150"/>
    <img src="https://github.com/AbdulkarimMziya/AbdulkarimMziya/blob/main/images/tictactoe-demo2.gif" alt="TicTacToe Demo" width="150" hspace="10"/> 
